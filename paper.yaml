@@ -1,0 +1,17 @@
+id: "2504.09158"
+title: "Differential Context Demystifies Atom Interferometry"
+source: "arXiv"
+arxiv_url: "https://arxiv.org/abs/2504.09158"
+html_url: "https://arxiv.org/html/2504.09158"
+repo: "https://github.com/thinkthoughts/differential-context-sensing"
+report: "https://labreports.app/2504-09158/"
+tags:
+  - atom interferometry
+  - differential sensing
+  - common-mode rejection
+  - standard quantum limit
+  - AION
+  - quantum sensing
+summary: >
+  A notebook repo exploring how differential measurements preserve precision
+  by separating shared laser phase noise from physical signal in atom interferometry.
