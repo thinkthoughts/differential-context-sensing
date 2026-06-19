@@ -1,0 +1,3 @@
+quantity,rmse,interpretation
+individual_sensor_error,1.9833238055181375,dominated by common-mode noise
+differential_error,0.21877954599306745,common-mode noise cancels
